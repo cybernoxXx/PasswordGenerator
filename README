@@ -1,0 +1,6 @@
+Random password generator that generates password between 12 and 48 characters.
+To use it:
+
+python3 pathToMain.py
+
+It should be improved to ensure that the password contains at least un upper and one lowercase character, a number and a special symbol.
